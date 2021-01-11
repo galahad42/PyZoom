@@ -8,8 +8,10 @@ Change them in the PyZoom.py file
 
 ###### Future Plans:
 
-* To record the classes(not using zoom recorder)
+* ~~To record the classes(not using zoom recorder)~~ (Learnt about OBS Studios, lol)
 * Better method to click on the 'Start' href(current method not the best method but workable)
-* Show old recording of me as a virtual cam in Zoom
+* ~~Show old recording of me as a virtual cam in Zoom~~ (Accomplished using OBS)
+
+Now I'm ready to sleep soundly in the morning while my recording attentds the meetings.
 
 
